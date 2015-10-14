@@ -1,7 +1,7 @@
 ## Website Performance Optimization portfolio project
 ####To run application
--Download zip or clone in desktop
--Open index.html in a web browser
+- Download zip or clone in desktop
+- Open index.html in a web browser
 
 
 ####Part 1: Optimize PageSpeed Insights score for index.html
